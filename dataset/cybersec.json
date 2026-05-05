@@ -1,0 +1,420 @@
+{"prompt": "What is phishing?", "completion": "Phishing is a cyber attack where attackers trick users into revealing sensitive information such as passwords or credit card details."}
+{"prompt": "How can I recognize a phishing email?", "completion": "Phishing emails often contain urgent language, suspicious links, misspellings, and requests for personal information."}
+{"prompt": "What should I do if I clicked a phishing link?", "completion": "Immediately disconnect from the internet, scan your device for malware, and change your passwords."}
+{"prompt": "What is malware?", "completion": "Malware is malicious software designed to damage, disrupt, or gain unauthorized access to a system."}
+{"prompt": "What is ransomware?", "completion": "Ransomware is a type of malware that locks your files and demands payment to restore access."}
+{"prompt": "How can I prevent ransomware?", "completion": "Keep backups, update software regularly, and avoid downloading files from unknown sources."}
+{"prompt": "What is spyware?", "completion": "Spyware is software that secretly collects user information without their knowledge."}
+{"prompt": "What is a strong password?", "completion": "A strong password is long, unique, and contains a mix of letters, numbers, and special characters."}
+{"prompt": "How often should I change my password?", "completion": "You should change your password regularly, especially if you suspect it has been compromised."}
+{"prompt": "What is two-factor authentication?", "completion": "Two-factor authentication adds an extra layer of security by requiring a second form of verification."}
+{"prompt": "Why is antivirus software important?", "completion": "Antivirus software helps detect and remove malicious programs before they harm your system."}
+{"prompt": "What is a firewall?", "completion": "A firewall monitors and controls incoming and outgoing network traffic based on security rules."}
+{"prompt": "How can I stay safe on public Wi-Fi?", "completion": "Avoid accessing sensitive information, use a VPN, and ensure websites use HTTPS."}
+{"prompt": "What is a VPN?", "completion": "A VPN encrypts your internet connection to protect your privacy and data."}
+{"prompt": "What is social engineering?", "completion": "Social engineering is a tactic where attackers manipulate people into revealing confidential information."}
+{"prompt": "How do hackers steal passwords?", "completion": "Hackers use phishing, keyloggers, brute force attacks, and data breaches to steal passwords."}
+{"prompt": "What is a data breach?", "completion": "A data breach occurs when sensitive information is accessed or exposed without authorization."}
+{"prompt": "What should I do after a data breach?", "completion": "Change your passwords, monitor accounts, and enable additional security measures."}
+{"prompt": "What is encryption?", "completion": "Encryption converts data into a secure format that can only be read with a key."}
+{"prompt": "Why are software updates important?", "completion": "Software updates fix security vulnerabilities and protect against new threats."}
+{"prompt": "What is a keylogger?", "completion": "A keylogger is a program that records keystrokes to steal sensitive information."}
+{"prompt": "What is brute force attack?", "completion": "A brute force attack tries many password combinations until the correct one is found."}
+{"prompt": "How can I protect my email account?", "completion": "Use a strong password, enable two-factor authentication, and avoid suspicious links."}
+{"prompt": "What is identity theft?", "completion": "Identity theft occurs when someone uses your personal information without permission."}
+{"prompt": "How can I avoid identity theft?", "completion": "Protect personal data, monitor accounts, and avoid sharing sensitive information online."}
+{"prompt": "What is HTTPS?", "completion": "HTTPS is a secure version of HTTP that encrypts communication between your browser and a website."}
+{"prompt": "Why should I avoid suspicious downloads?", "completion": "Suspicious downloads may contain malware that can harm your system or steal data."}
+{"prompt": "What is a botnet?", "completion": "A botnet is a network of infected computers controlled by an attacker."}
+{"prompt": "What is a cyber attack?", "completion": "A cyber attack is an attempt to damage, disrupt, or gain unauthorized access to systems or data."}
+{"prompt": "How can I secure my smartphone?", "completion": "Use a passcode, update software, install apps from trusted sources, and enable security features."}
+{"prompt": "What is cloud security?", "completion": "Cloud security involves protecting data and applications stored in cloud environments."}
+{"prompt": "What is multi-factor authentication?", "completion": "Multi-factor authentication requires multiple verification methods to access an account."}
+{"prompt": "Why should I log out from shared devices?", "completion": "Logging out prevents others from accessing your accounts."}
+{"prompt": "What is digital privacy?", "completion": "Digital privacy is the protection of personal data shared online."}
+{"prompt": "How can I improve my online privacy?", "completion": "Use strong passwords, limit data sharing, and use privacy-focused tools."}
+{"prompt": "What is phishing website?", "completion": "A phishing website is a fake site designed to steal your information by pretending to be legitimate."}
+{"prompt": "How can I check if a website is safe?", "completion": "Check for HTTPS, verify the URL, and avoid sites with suspicious content."}
+{"prompt": "What is cyber hygiene?", "completion": "Cyber hygiene refers to practices that keep systems secure, like updating software and using strong passwords."}
+{"prompt": "What is insider threat?", "completion": "An insider threat is a risk posed by individuals within an organization who misuse access."}
+{"prompt": "What is zero-day attack?", "completion": "A zero-day attack exploits a vulnerability that is unknown to developers."}
+{"prompt": "What is a cyber threat?", "completion": "A cyber threat is any malicious attempt to damage, steal, or disrupt digital systems or data. It can come from individuals, groups, or automated tools."}
+{"prompt": "What is a vulnerability?", "completion": "A vulnerability is a weakness in a system that attackers can exploit to gain unauthorized access."}
+{"prompt": "What is an exploit?", "completion": "An exploit is a technique or tool used to take advantage of a vulnerability in software or hardware."}
+{"prompt": "What is network security?", "completion": "Network security involves protecting networks from unauthorized access, misuse, or attacks. It includes firewalls, monitoring, and access controls."}
+{"prompt": "What is endpoint security?", "completion": "Endpoint security protects devices like laptops, phones, and servers from cyber threats."}
+{"prompt": "What is a security patch?", "completion": "A security patch is an update that fixes vulnerabilities in software to prevent exploitation."}
+{"prompt": "What is a threat actor?", "completion": "A threat actor is an individual or group responsible for carrying out cyber attacks."}
+{"prompt": "What is a bot?", "completion": "A bot is an automated program that performs tasks. Malicious bots can be used for attacks like DDoS or credential stuffing."}
+{"prompt": "What is digital forensics?", "completion": "Digital forensics involves collecting and analyzing digital evidence to investigate cyber incidents."}
+{"prompt": "What is a security breach?", "completion": "A security breach occurs when unauthorized individuals access protected data or systems."}
+{"prompt": "What is a worm?", "completion": "A worm is malware that spreads automatically across systems without user interaction."}
+{"prompt": "What is a trojan?", "completion": "A trojan is malware disguised as legitimate software to trick users into installing it."}
+{"prompt": "What is a security audit?", "completion": "A security audit evaluates an organization's systems, policies, and controls to identify weaknesses."}
+{"prompt": "What is a threat model?", "completion": "A threat model identifies potential risks, attack paths, and security weaknesses in a system."}
+{"prompt": "What is a digital certificate?", "completion": "A digital certificate verifies the identity of websites or users using cryptographic keys."}
+{"prompt": "What is a hash function?", "completion": "A hash function converts data into a fixed-size value used for integrity checks and authentication."}
+{"prompt": "What is a security token?", "completion": "A security token is a physical or digital device used for authentication."}
+{"prompt": "What is a sandbox?", "completion": "A sandbox is an isolated environment used to safely test suspicious files or code."}
+{"prompt": "What is a threat vector?", "completion": "A threat vector is the path or method attackers use to access a system."}
+{"prompt": "What is cyber resilience?", "completion": "Cyber resilience is the ability to withstand, recover from, and adapt to cyber attacks."}
+{"prompt": "What is a payload in malware?", "completion": "A payload is the part of malware that performs the malicious action, such as data theft or encryption."}
+{"prompt": "What is a security policy?", "completion": "A security policy is a set of rules that define how an organization protects its systems and data."}
+{"prompt": "What is a honeypot?", "completion": "A honeypot is a decoy system designed to attract attackers and study their behavior."}
+{"prompt": "What is a rootkit?", "completion": "A rootkit is malware that hides its presence and gives attackers persistent access to a system."}
+{"prompt": "What is a botnet?", "completion": "A botnet is a network of infected devices controlled remotely by an attacker."}
+{"prompt": "What is a brute force attack?", "completion": "A brute force attack tries many password combinations until the correct one is found."}
+{"prompt": "What is a dictionary attack?", "completion": "A dictionary attack uses a list of common passwords or words to guess login credentials."}
+{"prompt": "What is a session hijacking attack?", "completion": "Session hijacking occurs when attackers steal or manipulate a user's session token to impersonate them."}
+{"prompt": "What is a DDoS attack?", "completion": "A DDoS attack floods a target with excessive traffic to make it unavailable to users."}
+{"prompt": "What is a firewall rule?", "completion": "A firewall rule defines what traffic is allowed or blocked based on IP, port, or protocol."}
+{"prompt": "What is a secure protocol?", "completion": "A secure protocol encrypts communication to protect data from interception."}
+{"prompt": "What is a cipher?", "completion": "A cipher is an algorithm used to encrypt and decrypt data."}
+{"prompt": "What is a security incident?", "completion": "A security incident is any event that threatens the confidentiality, integrity, or availability of data."}
+{"prompt": "What is a threat signature?", "completion": "A threat signature is a known pattern used to detect malware or attacks."}
+{"prompt": "What is a whitelist?", "completion": "A whitelist allows only approved applications, users, or traffic to access a system."}
+{"prompt": "What is a blacklist?", "completion": "A blacklist blocks known malicious or unauthorized items from accessing a system."}
+{"prompt": "What is a security baseline?", "completion": "A security baseline is the minimum required configuration to keep a system secure."}
+{"prompt": "What is a penetration test?", "completion": "A penetration test simulates real attacks to identify vulnerabilities in systems or networks."}
+{"prompt": "What is a security control?", "completion": "A security control is a safeguard used to reduce risk and protect systems."}
+{"prompt": "What is a threat landscape?", "completion": "The threat landscape refers to the current range of cyber threats targeting systems and users."}
+{"prompt": "What is a keylogger?", "completion": "A keylogger is malware that records keystrokes to steal sensitive information."}
+{"prompt": "What is a spoofing attack?", "completion": "Spoofing involves impersonating a trusted entity to deceive users or systems."}
+{"prompt": "What is a man-in-the-middle attack?", "completion": "A man-in-the-middle attack occurs when attackers intercept communication between two parties."}
+{"prompt": "What is a security framework?", "completion": "A security framework provides guidelines and best practices for managing cybersecurity risks."}
+{"prompt": "What is a certificate authority?", "completion": "A certificate authority issues digital certificates to verify identities online."}
+{"prompt": "What is a checksum?", "completion": "A checksum is a value used to verify data integrity during transmission or storage."}
+{"prompt": "What is a secure hash?", "completion": "A secure hash is a cryptographic function used to ensure data integrity."}
+{"prompt": "What is a threat feed?", "completion": "A threat feed provides real-time information about emerging cyber threats."}
+{"prompt": "What is a cyber kill chain?", "completion": "The cyber kill chain describes the stages of a cyber attack, from reconnaissance to execution."}
+{"prompt": "What is a backdoor?", "completion": "A backdoor is a hidden method of bypassing normal authentication to access a system."}
+{"prompt": "What is a logic bomb?", "completion": "A logic bomb is malicious code that triggers when specific conditions are met."}
+{"prompt": "What is a security posture?", "completion": "Security posture refers to an organization's overall readiness to defend against cyber threats."}
+{"prompt": "What is a threat assessment?", "completion": "A threat assessment evaluates potential risks and their impact on systems or data."}
+{"prompt": "What is a cyber attack surface?", "completion": "The attack surface includes all possible entry points an attacker can exploit."}
+{"prompt": "What is a VPN tunnel?", "completion": "A VPN tunnel encrypts data between a device and a remote server to protect privacy."}
+{"prompt": "What is a credential stuffing attack?", "completion": "Credential stuffing uses stolen username-password pairs to access accounts on multiple sites."}
+{"prompt": "What is a phishing kit?", "completion": "A phishing kit is a ready-made toolset attackers use to create fake login pages."}
+{"prompt": "What is a threat intelligence platform?", "completion": "A threat intelligence platform collects and analyzes data about cyber threats to improve defenses."}
+{"prompt": "What is a cyber defense strategy?", "completion": "A cyber defense strategy outlines how an organization protects its systems from attacks."}
+{"prompt": "What is a secure boot?", "completion": "Secure boot ensures that only trusted software loads during system startup."}
+{"prompt": "What is a digital footprint?", "completion": "A digital footprint is the trail of data a user leaves behind online."}
+{"prompt": "What is a password policy?", "completion": "A password policy defines rules for creating and managing secure passwords."}
+{"prompt": "What is a threat mitigation plan?", "completion": "A mitigation plan outlines steps to reduce the impact of cyber threats."}
+{"prompt": "What is a cyber insurance policy?", "completion": "Cyber insurance helps organizations recover financially from cyber attacks."}
+{"prompt": "What is a SIEM system?", "completion": "A SIEM system collects and analyzes security logs to detect threats in real time."}
+{"prompt": "What is a security alert?", "completion": "A security alert notifies administrators about suspicious activity or potential threats."}
+{"prompt": "What is a secure enclave?", "completion": "A secure enclave is a protected area of a processor used to store sensitive data."}
+{"prompt": "What is a threat signature update?", "completion": "A signature update adds new threat patterns to security tools for better detection."}
+{"prompt": "What is a cyber hygiene routine?", "completion": "Cyber hygiene includes regular updates, strong passwords, and safe browsing habits."}
+{"prompt": "What is a digital identity?", "completion": "A digital identity is the online representation of a user or device."}
+{"prompt": "What is a security token service?", "completion": "A security token service issues tokens used for authentication in secure systems."}
+{"prompt": "What is a forensic image?", "completion": "A forensic image is an exact copy of a digital device used for investigation."}
+{"prompt": "What is a threat indicator?", "completion": "A threat indicator is a piece of data that signals malicious activity, such as an IP or hash."}
+{"prompt": "What is a cyber defense team?", "completion": "A cyber defense team monitors, detects, and responds to cyber threats within an organization."}
+{"prompt": "What is a secure configuration?", "completion": "A secure configuration is a hardened setup that reduces vulnerabilities in systems."}
+{"prompt": "What is a password hash?", "completion": "A password hash is an encrypted representation of a password used for secure storage."}
+{"prompt": "What is a threat simulation?", "completion": "Threat simulation tests how systems respond to realistic cyber attacks."}
+{"prompt": "What is a cyber threat actor group?", "completion": "A threat actor group is an organized team that conducts cyber attacks for profit or espionage."}
+{"prompt": "What is a digital signature?", "completion": "A digital signature verifies the authenticity and integrity of digital documents."}
+{"prompt": "What is a secure session?", "completion": "A secure session encrypts communication between a user and a service to protect data."}
+{"prompt": "What is a cyber risk?", "completion": "Cyber risk is the potential for loss or damage due to cyber threats."}
+{"prompt": "What is a threat detection system?", "completion": "A threat detection system identifies suspicious activity using rules, signatures, or behavior analysis."}
+{"prompt": "What is a cyber threat map?", "completion": "A threat map visualizes global cyber attacks in real time."}
+{"prompt": "What is a secure protocol suite?", "completion": "A secure protocol suite includes encrypted communication methods like TLS and SSH."}
+{"prompt": "What is a cyber threat lifecycle?", "completion": "The threat lifecycle describes how attacks evolve from planning to execution and recovery."}
+{"prompt": "What is a security hardening process?", "completion": "Hardening reduces vulnerabilities by disabling unnecessary features and applying secure settings."}
+{"prompt": "What is a cyber threat taxonomy?", "completion": "A threat taxonomy categorizes different types of cyber threats for analysis and defense."}
+{"prompt": "What is a secure authentication method?", "completion": "A secure authentication method verifies identity using strong techniques like MFA or biometrics."}
+{"prompt": "What is a cyber threat report?", "completion": "A threat report summarizes recent attacks, vulnerabilities, and security trends."}
+{"prompt": "What is a digital risk?", "completion": "Digital risk refers to threats that arise from using digital technologies and online services."}
+{"prompt": "What is a cyber threat alert level?", "completion": "An alert level indicates the severity and likelihood of current cyber threats."}
+{"prompt": "What is a secure communication channel?", "completion": "A secure channel encrypts data to prevent interception or tampering."}
+{"prompt": "What is a cyber threat advisory?", "completion": "A threat advisory warns organizations about emerging cyber risks and recommended actions."}
+{"prompt": "What is a secure access policy?", "completion": "A secure access policy defines who can access systems and under what conditions."}
+{"prompt": "What is a cyber threat dashboard?", "completion": "A threat dashboard displays real-time security events and alerts for monitoring."}
+{"prompt": "What is a secure credential?", "completion": "A secure credential is a protected form of identity verification, such as a token or certificate."}
+{"prompt": "What is a cyber threat scanner?", "completion": "A threat scanner checks systems for vulnerabilities, malware, or suspicious activity."}
+{"prompt": "What is a secure encryption key?", "completion": "An encryption key is a secret value used to encrypt and decrypt data securely."}
+{"prompt":"How can I detect a phishing attempt?","completion":"Look for suspicious links, unexpected attachments, urgent language, and sender address mismatches. Phishing emails often try to create panic to make you click without thinking."}
+{"prompt":"What are signs of a compromised account?","completion":"Unexpected password changes, login alerts from unknown locations, missing emails, or unauthorized activity are common signs of compromise."}
+{"prompt":"How can I detect malware on my device?","completion":"Slow performance, pop-ups, unknown programs, and high CPU usage may indicate malware. Running a full antivirus scan helps confirm infection."}
+{"prompt":"What is behavioral threat detection?","completion":"Behavioral detection identifies threats by analyzing unusual activity rather than relying on known signatures."}
+{"prompt":"How can I detect ransomware early?","completion":"Unusual file renaming, sudden system slowdown, or blocked access to files can indicate early ransomware activity."}
+{"prompt":"What is anomaly detection in cybersecurity?","completion":"Anomaly detection identifies unusual patterns that differ from normal behavior, helping detect unknown threats."}
+{"prompt":"How can I detect unauthorized access?","completion":"Monitor login logs, check for unknown devices, and enable alerts for suspicious sign-ins."}
+{"prompt":"What is threat hunting?","completion":"Threat hunting is the proactive search for hidden threats inside a network using intelligence and behavioral analysis."}
+{"prompt":"How can I detect keyloggers?","completion":"Look for unknown processes, unusual keyboard lag, or unexpected network traffic. Anti-malware tools can detect keyloggers."}
+{"prompt":"What is signature-based detection?","completion":"Signature-based detection identifies threats using known patterns or hashes of malicious files."}
+{"prompt":"What is heuristic analysis?","completion":"Heuristic analysis detects threats by evaluating suspicious characteristics in files or behavior."}
+{"prompt":"How can I detect a brute-force attack?","completion":"Multiple failed login attempts in a short time often indicate brute-force activity."}
+{"prompt":"What is network traffic monitoring?","completion":"It involves analyzing data flow to detect anomalies, intrusions, or malicious activity."}
+{"prompt":"How can I detect spyware?","completion":"Unexpected pop-ups, slow performance, and unknown background processes may indicate spyware infection."}
+{"prompt":"What is endpoint detection and response?","completion":"EDR tools monitor endpoints for suspicious behavior and provide real-time threat response capabilities."}
+{"prompt":"How can I detect insider threats?","completion":"Monitor unusual data access, large file transfers, or attempts to bypass security controls."}
+{"prompt":"What is threat intelligence?","completion":"Threat intelligence provides information about emerging threats, attacker behavior, and known malicious indicators."}
+{"prompt":"How can I detect data exfiltration?","completion":"Look for unusual outbound traffic, large data transfers, or communication with unknown external servers."}
+{"prompt":"What is a threat indicator?","completion":"A threat indicator is data such as an IP, domain, or file hash linked to malicious activity."}
+{"prompt":"How can I detect a spoofing attack?","completion":"Check sender details, verify URLs, and use authentication protocols like SPF, DKIM, and DMARC."}
+{"prompt":"What is lateral movement detection?","completion":"It identifies attackers moving inside a network by monitoring unusual authentication patterns."}
+{"prompt":"How can I detect botnet activity?","completion":"Look for unusual outbound traffic, repeated connection attempts, or communication with known malicious servers."}
+{"prompt":"What is DNS monitoring?","completion":"DNS monitoring tracks domain requests to detect malicious or suspicious lookups."}
+{"prompt":"How can I detect credential stuffing?","completion":"Multiple login attempts using different passwords for the same username often indicate credential stuffing."}
+{"prompt":"What is log correlation?","completion":"Log correlation links events across systems to identify patterns that indicate attacks."}
+{"prompt":"How can I detect SQL injection attempts?","completion":"Monitor logs for suspicious queries, unexpected characters, or repeated failed database requests."}
+{"prompt":"What is port scanning detection?","completion":"It identifies repeated connection attempts to multiple ports, often a sign of reconnaissance."}
+{"prompt":"How can I detect privilege escalation?","completion":"Look for unauthorized permission changes, unusual admin actions, or suspicious process execution."}
+{"prompt":"What is file integrity monitoring?","completion":"It detects unauthorized changes to critical files by comparing them to known baselines."}
+{"prompt":"How can I detect a MITM attack?","completion":"Check for certificate warnings, unexpected network behavior, or unknown Wi-Fi networks."}
+{"prompt":"What is sandbox analysis?","completion":"Sandboxing runs suspicious files in isolation to observe malicious behavior safely."}
+{"prompt":"How can I detect rogue devices?","completion":"Scan the network for unknown MAC addresses or unauthorized access points."}
+{"prompt":"What is threat scoring?","completion":"Threat scoring assigns risk levels to alerts based on severity and likelihood."}
+{"prompt":"How can I detect unauthorized software?","completion":"Use application whitelisting and monitor for unknown installations or processes."}
+{"prompt":"What is packet inspection?","completion":"Packet inspection analyzes network packets to detect malicious content or anomalies."}
+{"prompt":"How can I detect phishing websites?","completion":"Check for HTTPS, verify the URL, and look for design inconsistencies or suspicious pop-ups."}
+{"prompt":"What is user behavior analytics?","completion":"UBA detects threats by analyzing deviations from normal user activity."}
+{"prompt":"How can I detect a supply chain attack?","completion":"Monitor third-party access, validate software updates, and track unusual vendor activity."}
+{"prompt":"What is threat correlation?","completion":"Threat correlation links multiple alerts to identify coordinated attacks."}
+{"prompt":"How can I detect unauthorized cloud access?","completion":"Monitor cloud logs, enable MFA, and check for unknown IP addresses or devices."}
+{"prompt":"What is a honeynet?","completion":"A honeynet is a network of decoy systems designed to attract and study attackers."}
+{"prompt":"How can I detect ransomware encryption?","completion":"Look for rapid file changes, unusual extensions, or blocked access to directories."}
+{"prompt":"What is a threat dashboard?","completion":"A threat dashboard visualizes security alerts and system health in real time."}
+{"prompt":"How can I detect malicious scripts?","completion":"Monitor script execution logs and look for unusual PowerShell or Bash commands."}
+{"prompt":"What is threat attribution?","completion":"Threat attribution identifies the group or individual behind an attack using intelligence and analysis."}
+{"prompt":"How can I detect unauthorized API usage?","completion":"Monitor API logs for unusual requests, high traffic, or unknown tokens."}
+{"prompt":"What is a threat model?","completion":"A threat model identifies potential attack paths, vulnerabilities, and security risks."}
+{"prompt":"How can I detect brute-force attacks on SSH?","completion":"Monitor repeated failed login attempts and block suspicious IPs automatically."}
+{"prompt":"What is a cyber threat feed?","completion":"A threat feed provides updated information about active cyber threats and indicators."}
+{"prompt":"How can I detect malware persistence?","completion":"Check startup entries, scheduled tasks, and registry modifications for unauthorized changes."}
+{"prompt":"What is a threat landscape?","completion":"The threat landscape describes the current range of cyber threats targeting systems and users."}
+{"prompt":"How can I detect unauthorized privilege changes?","completion":"Monitor admin logs and alert on unexpected permission modifications."}
+{"prompt":"What is a threat signature update?","completion":"It adds new malware patterns to detection tools to improve accuracy."}
+{"prompt":"How can I detect DNS tunneling?","completion":"Look for abnormal DNS query patterns, long domain names, or high-frequency requests."}
+{"prompt":"What is a threat vector?","completion":"A threat vector is the method attackers use to access a system or network."}
+{"prompt":"How can I detect exfiltration via cloud storage?","completion":"Monitor outbound uploads, unusual file transfers, and unauthorized cloud apps."}
+{"prompt":"What is a cyber threat lifecycle?","completion":"It describes the stages of an attack, from reconnaissance to exploitation and impact."}
+{"prompt":"How can I detect unauthorized remote access?","completion":"Check for unknown remote sessions, unusual login times, or unexpected RDP activity."}
+{"prompt":"What is a threat indicator list?","completion":"It contains known malicious IPs, domains, and file hashes used for detection."}
+{"prompt":"How can I detect malicious browser extensions?","completion":"Review installed extensions and monitor for unusual permissions or behavior."}
+{"prompt":"What is a threat hunting hypothesis?","completion":"A hypothesis proposes a potential threat scenario to investigate proactively."}
+{"prompt":"How can I detect compromised credentials?","completion":"Monitor for unusual login patterns, impossible travel, or repeated failed attempts."}
+{"prompt":"What is a threat intelligence platform?","completion":"A TIP aggregates and analyzes threat data to improve detection and response."}
+{"prompt":"How can I detect unauthorized database access?","completion":"Monitor query logs, failed login attempts, and unusual data retrieval patterns."}
+{"prompt":"What is a threat severity rating?","completion":"It measures the potential impact and urgency of a detected threat."}
+{"prompt":"How can I detect malicious macros?","completion":"Disable macros by default and scan documents for suspicious embedded code."}
+{"prompt":"What is a threat taxonomy?","completion":"A taxonomy categorizes threats to help analysts understand and respond effectively."}
+{"prompt":"How can I detect unauthorized firmware changes?","completion":"Use integrity checks and monitor for unexpected device reboots or updates."}
+{"prompt":"What is a threat mitigation strategy?","completion":"It outlines actions to reduce the impact of cyber threats."}
+{"prompt":"How can I detect compromised IoT devices?","completion":"Monitor unusual traffic, unknown connections, or unexpected device behavior."}
+{"prompt":"What is a threat escalation?","completion":"Threat escalation occurs when attackers gain more control or access over time."}
+{"prompt":"How can I detect malicious USB devices?","completion":"Disable autorun and monitor for unknown storage devices or unexpected file activity."}
+{"prompt":"What is a threat prioritization process?","completion":"It ranks threats based on severity, likelihood, and potential impact."}
+{"prompt":"How can I detect unauthorized Wi-Fi access?","completion":"Check connected device lists and enable alerts for unknown MAC addresses."}
+{"prompt":"What is a threat intelligence report?","completion":"It summarizes recent attacks, indicators, and recommended defenses."}
+{"prompt":"How can I detect malicious PowerShell commands?","completion":"Enable script logging and monitor for encoded or obfuscated commands."}
+{"prompt":"What is a threat detection engine?","completion":"It analyzes data to identify malicious activity using rules or machine learning."}
+{"prompt":"How can I detect unauthorized file access?","completion":"Use file auditing tools to track read, write, and delete operations."}
+{"prompt":"What is a threat actor profile?","completion":"It describes an attacker’s tools, techniques, and motivations."}
+{"prompt":"How can I detect phishing SMS messages?","completion":"Look for unknown senders, suspicious links, and urgent or threatening language."}
+{"prompt":"What is a threat intelligence cycle?","completion":"It includes collection, analysis, dissemination, and feedback of threat data."}
+{"prompt":"How can I detect malicious cron jobs?","completion":"Review scheduled tasks and look for unauthorized or hidden entries."}
+{"prompt":"What is a threat detection rule?","completion":"A rule defines conditions that trigger alerts when suspicious activity occurs."}
+{"prompt":"How can I detect unauthorized VPN usage?","completion":"Monitor VPN logs and check for unknown devices or unusual connection times."}
+{"prompt":"What is a threat detection alert?","completion":"It notifies analysts about potential malicious activity requiring investigation."}
+{"prompt":"How can I detect compromised cloud credentials?","completion":"Monitor for unusual API calls, unknown IP addresses, or excessive permissions."}
+{"prompt":"What is a threat detection baseline?","completion":"A baseline defines normal activity to help identify anomalies."}
+{"prompt":"How can I detect malicious registry changes?","completion":"Use registry monitoring tools to alert on unauthorized modifications."}
+{"prompt":"What is a threat detection workflow?","completion":"It outlines steps analysts follow to investigate and respond to alerts."}
+{"prompt":"How can I detect unauthorized SSH keys?","completion":"Check authorized_keys files and monitor for unexpected additions."}
+{"prompt":"What is a threat detection metric?","completion":"A metric measures detection performance, such as false positives or response time."}
+{"prompt":"How can I detect malicious browser scripts?","completion":"Use script-blocking tools and monitor for suspicious JavaScript activity."}
+{"prompt":"What is a threat detection signature?","completion":"A signature is a known pattern used to identify malware or attacks."}
+{"prompt":"How can I detect unauthorized admin accounts?","completion":"Review user lists and alert on new or modified privileged accounts."}
+{"prompt":"What is a threat detection model?","completion":"A model uses rules or machine learning to identify malicious behavior."}
+{"prompt":"How can I detect malicious outbound traffic?","completion":"Monitor network logs for unusual destinations or large data transfers."}
+{"prompt":"What is a threat detection sensor?","completion":"A sensor collects data from endpoints or networks for analysis."}
+{"prompt":"How can I detect unauthorized software installations?","completion":"Use application control tools and monitor for unknown executables."}
+{"prompt":"What is a threat detection threshold?","completion":"A threshold defines when activity becomes suspicious enough to trigger an alert."}
+{"prompt":"How can I detect malicious email attachments?","completion":"Scan attachments with antivirus tools and avoid opening unknown files."}
+{"prompt":"What is a threat detection pipeline?","completion":"It processes security data from collection to alert generation."}
+{"prompt":"How can I detect unauthorized cloud storage usage?","completion":"Monitor for unknown apps, unusual uploads, or unexpected sharing activity."}
+{"prompt":"What is a threat detection anomaly?","completion":"An anomaly is activity that deviates from normal patterns and may indicate an attack."}
+{"prompt":"How can I detect malicious domain requests?","completion":"Use DNS filtering and monitor for known malicious domains."}
+{"prompt":"What is a threat detection log?","completion":"A log records events used to identify suspicious activity."}
+{"prompt":"How can I detect unauthorized network scanning?","completion":"Monitor for repeated connection attempts across multiple ports."}
+{"prompt":"What is a threat detection alert level?","completion":"It indicates the severity and urgency of a detected threat."}
+{"prompt":"How can I detect malicious file downloads?","completion":"Use web filtering and scan downloaded files for malware."}
+{"prompt":"What is a threat detection timeline?","completion":"A timeline shows the sequence of events during an attack."}
+{"prompt":"How can I detect unauthorized Bluetooth connections?","completion":"Disable Bluetooth when not needed and monitor for unknown devices."}
+{"prompt":"What is a threat detection audit?","completion":"An audit reviews detection processes to ensure effectiveness."}
+{"prompt":"How can I detect malicious kernel modules?","completion":"Check loaded modules and alert on unauthorized additions."}
+{"prompt":"What is a threat detection classifier?","completion":"A classifier categorizes activity as benign or malicious."}
+{"prompt":"How can I detect unauthorized encryption?","completion":"Monitor for sudden file changes or unknown encryption tools."}
+{"prompt":"What is a threat detection feed?","completion":"A feed provides updated threat indicators for detection tools."}
+{"prompt":"How can I detect malicious VPN traffic?","completion":"Monitor VPN logs for unusual destinations or high data usage."}
+{"prompt":"What is a threat detection engine update?","completion":"It improves detection accuracy by adding new rules or signatures."}
+{"prompt":"How can I detect unauthorized remote scripts?","completion":"Monitor script execution logs and block unknown remote commands."}
+{"prompt":"What is a threat detection lifecycle?","completion":"It covers detection, analysis, response, and improvement."}
+{"prompt":"How can I detect malicious cloud workloads?","completion":"Monitor cloud logs, check for unknown processes, and enforce least privilege."}
+{"prompt":"What is a threat detection indicator?","completion":"An indicator is a data point linked to malicious activity."}
+{"prompt":"How can I detect unauthorized data transfers?","completion":"Monitor outbound traffic and set alerts for large or unusual transfers."}
+{"prompt":"What is a threat detection correlation rule?","completion":"It links multiple events to identify coordinated attacks."}
+{"prompt":"How can I detect malicious SSH activity?","completion":"Monitor for failed logins, unknown keys, or unusual commands."}
+{"prompt":"What is a threat detection report?","completion":"It summarizes detected threats and recommended actions."}
+{"prompt":"How can I detect unauthorized cloud API calls?","completion":"Monitor API logs for unknown tokens or unusual request patterns."}
+{"prompt":"What is a threat detection alert queue?","completion":"It organizes alerts for analysts to review and prioritize."}
+{"prompt":"How can I detect malicious cron modifications?","completion":"Review scheduled tasks and alert on unauthorized changes."}
+{"prompt":"What is a threat detection severity score?","completion":"It measures how dangerous a detected threat is."}
+{"prompt":"How can I detect unauthorized DNS changes?","completion":"Monitor DNS records and alert on unexpected modifications."}
+{"prompt":"What is a threat detection baseline deviation?","completion":"It indicates activity that differs from normal behavior."}
+{"prompt":"How can I detect malicious browser redirects?","completion":"Check for unknown extensions and scan for adware or malware."}
+{"prompt":"What is a threat detection false positive?","completion":"A false positive is a benign event incorrectly flagged as malicious."}
+{"prompt":"How can I detect unauthorized certificate changes?","completion":"Monitor certificate stores and alert on unexpected additions."}
+{"prompt":"What is a threat detection false negative?","completion":"A false negative occurs when a real threat goes undetected, allowing malicious activity to continue unnoticed."}
+{"prompt":"How can I detect unauthorized system configuration changes?","completion":"Use configuration monitoring tools and compare current settings to approved baselines."}
+{"prompt":"What is a threat containment strategy?","completion":"It focuses on isolating affected systems to prevent further damage during an attack."}
+{"prompt":"How can I detect malicious lateral movement?","completion":"Monitor authentication logs, unusual remote connections, and unexpected privilege escalations."}
+{"prompt":"What is an incident response plan?","completion":"An incident response plan outlines steps to detect, contain, and recover from cyber attacks."}
+{"prompt":"How can I respond to a ransomware attack?","completion":"Disconnect affected systems, report the incident, restore from backups, and avoid paying the ransom."}
+{"prompt":"What is the first step in incident response?","completion":"The first step is identification—confirming that a security incident has occurred."}
+{"prompt":"How can I contain a malware infection?","completion":"Isolate the device from the network, stop malicious processes, and begin scanning for removal."}
+{"prompt":"What is forensic evidence preservation?","completion":"It involves securing logs, disk images, and memory dumps without altering data."}
+{"prompt":"How can I recover from a data breach?","completion":"Reset credentials, patch vulnerabilities, notify affected users, and strengthen security controls."}
+{"prompt":"What is incident triage?","completion":"Triage prioritizes incidents based on severity, impact, and urgency."}
+{"prompt":"How can I respond to unauthorized access?","completion":"Revoke access, reset passwords, review logs, and investigate how the breach occurred."}
+{"prompt":"What is a post-incident review?","completion":"A review analyzes what happened, how it was handled, and what improvements are needed."}
+{"prompt":"How can I respond to a phishing attack?","completion":"Report the message, avoid clicking links, and reset credentials if you interacted with it."}
+{"prompt":"What is incident escalation?","completion":"Escalation involves notifying higher-level teams when an incident exceeds initial response capabilities."}
+{"prompt":"How can I respond to a DDoS attack?","completion":"Use traffic filtering, rate limiting, and contact your ISP for mitigation support."}
+{"prompt":"What is an incident containment zone?","completion":"It isolates affected systems to prevent the spread of malicious activity."}
+{"prompt":"How can I respond to a compromised email account?","completion":"Reset the password, enable MFA, review sent messages, and check for forwarding rules."}
+{"prompt":"What is incident classification?","completion":"Classification categorizes incidents by type, such as malware, phishing, or unauthorized access."}
+{"prompt":"How can I respond to insider threats?","completion":"Monitor activity, restrict access, and involve HR or legal teams if necessary."}
+{"prompt":"What is incident eradication?","completion":"Eradication removes the root cause of an incident, such as deleting malware or closing vulnerabilities."}
+{"prompt":"How can I respond to a supply chain attack?","completion":"Verify vendor integrity, revoke compromised components, and update affected systems."}
+{"prompt":"What is incident recovery?","completion":"Recovery restores systems to normal operation while ensuring threats are fully removed."}
+{"prompt":"How can I respond to a brute-force attack?","completion":"Enable account lockouts, enforce strong passwords, and block offending IP addresses."}
+{"prompt":"What is an incident response team?","completion":"A team responsible for detecting, analyzing, and responding to cybersecurity incidents."}
+{"prompt":"How can I respond to a zero-day exploit?","completion":"Apply temporary mitigations, isolate affected systems, and monitor for unusual activity."}
+{"prompt":"What is incident prioritization?","completion":"It ranks incidents based on potential damage and urgency."}
+{"prompt":"How can I respond to a credential leak?","completion":"Reset all affected passwords, enable MFA, and monitor for unauthorized access."}
+{"prompt":"What is incident communication?","completion":"It involves notifying stakeholders, users, and teams about the incident and response steps."}
+{"prompt":"How can I respond to unauthorized database access?","completion":"Revoke credentials, review logs, patch vulnerabilities, and restore from backups if needed."}
+{"prompt":"What is incident validation?","completion":"Validation confirms that an alert represents a real security incident."}
+{"prompt":"How can I respond to malware persistence?","completion":"Remove startup entries, delete malicious files, and reinstall affected components if necessary."}
+{"prompt":"What is incident documentation?","completion":"Documentation records actions taken, evidence collected, and lessons learned."}
+{"prompt":"How can I respond to a compromised IoT device?","completion":"Disconnect it, reset to factory settings, update firmware, and change default passwords."}
+{"prompt":"What is incident coordination?","completion":"Coordination ensures teams work together efficiently during a security incident."}
+{"prompt":"How can I respond to unauthorized cloud activity?","completion":"Revoke tokens, rotate keys, enable MFA, and audit cloud logs."}
+{"prompt":"What is incident verification?","completion":"Verification ensures the threat has been fully removed before restoring operations."}
+{"prompt":"How can I respond to a MITM attack?","completion":"Disconnect from the network, verify certificates, and switch to secure connections."}
+{"prompt":"What is incident isolation?","completion":"Isolation separates affected systems to prevent further spread of the attack."}
+{"prompt":"How can I respond to a compromised admin account?","completion":"Reset credentials, review logs, revoke sessions, and investigate privilege misuse."}
+{"prompt":"What is incident containment policy?","completion":"A policy defining how to isolate and control affected systems during an attack."}
+{"prompt":"How can I respond to malicious scripts?","completion":"Terminate the script, block execution, and analyze logs for root cause."}
+{"prompt":"What is incident readiness?","completion":"Readiness ensures teams, tools, and processes are prepared for cyber incidents."}
+{"prompt":"How can I respond to unauthorized file changes?","completion":"Restore from backups, review logs, and tighten access controls."}
+{"prompt":"What is incident lifecycle management?","completion":"It covers detection, analysis, containment, eradication, recovery, and review."}
+{"prompt":"How can I respond to a data leak?","completion":"Identify exposed data, notify affected users, and secure the source of the leak."}
+{"prompt":"What is incident evidence collection?","completion":"It gathers logs, memory dumps, and disk images for investigation."}
+{"prompt":"How can I respond to malicious browser extensions?","completion":"Remove the extension, reset browser settings, and scan for malware."}
+{"prompt":"What is incident containment duration?","completion":"The time systems remain isolated until threats are fully removed."}
+{"prompt":"How can I respond to unauthorized network scanning?","completion":"Block the source IP, review firewall logs, and strengthen perimeter defenses."}
+{"prompt":"What is incident escalation path?","completion":"A defined route for escalating severe incidents to higher-level teams."}
+{"prompt":"How can I respond to unauthorized encryption?","completion":"Identify the process, stop encryption, and restore affected files from backups."}
+{"prompt":"What is incident remediation?","completion":"Remediation fixes vulnerabilities and prevents similar incidents in the future."}
+{"prompt":"How can I respond to malicious outbound traffic?","completion":"Block suspicious destinations, isolate affected systems, and investigate root cause."}
+{"prompt":"What is incident closure?","completion":"Closure occurs when systems are restored and documentation is complete."}
+{"prompt":"How can I respond to unauthorized Bluetooth access?","completion":"Disable Bluetooth, remove unknown pairings, and update device firmware."}
+{"prompt":"What is incident monitoring?","completion":"Monitoring tracks systems after recovery to ensure threats do not return."}
+{"prompt":"How can I respond to malicious kernel modules?","completion":"Unload the module, scan the system, and reinstall the OS if necessary."}
+{"prompt":"What is incident containment scope?","completion":"The scope defines which systems must be isolated during an attack."}
+{"prompt":"How can I respond to unauthorized certificate changes?","completion":"Revoke compromised certificates and restore trusted ones."}
+{"prompt":"What is incident detection?","completion":"Detection identifies suspicious activity that may indicate a security incident."}
+{"prompt":"How can I respond to unauthorized Wi-Fi access?","completion":"Change Wi-Fi credentials, enable WPA3, and block unknown devices."}
+{"prompt":"What is incident response automation?","completion":"Automation uses scripts and tools to speed up detection and containment."}
+{"prompt":"How can I respond to malicious domain requests?","completion":"Block the domain, analyze logs, and scan for malware."}
+{"prompt":"What is incident response maturity?","completion":"It measures how well an organization handles cyber incidents."}
+{"prompt":"How can I respond to unauthorized remote scripts?","completion":"Disable remote execution, review logs, and enforce access controls."}
+{"prompt":"What is incident response orchestration?","completion":"Orchestration coordinates tools and processes for efficient incident handling."}
+{"prompt":"How can I respond to compromised cloud workloads?","completion":"Isolate the workload, rotate keys, and review cloud activity logs."}
+{"prompt":"What is incident response governance?","completion":"Governance defines policies and responsibilities for managing incidents."}
+{"prompt":"How can I respond to unauthorized data transfers?","completion":"Block transfers, investigate the source, and enforce DLP policies."}
+{"prompt":"What is incident response documentation?","completion":"Documentation records actions, findings, and lessons learned."}
+{"prompt":"How can I respond to malicious SSH activity?","completion":"Block offending IPs, rotate keys, and review command history."}
+{"prompt":"What is incident response validation?","completion":"Validation ensures systems are safe before returning to production."}
+{"prompt":"How can I respond to unauthorized cloud API calls?","completion":"Revoke tokens, rotate keys, and enforce least privilege."}
+{"prompt":"What is incident response reporting?","completion":"Reporting communicates incident details to stakeholders and leadership."}
+{"prompt":"How can I respond to malicious cron jobs?","completion":"Remove unauthorized jobs, review logs, and secure access."}
+{"prompt":"What is incident response training?","completion":"Training prepares teams to handle cyber incidents effectively."}
+{"prompt":"How can I respond to unauthorized DNS changes?","completion":"Revert changes, secure DNS access, and monitor for further tampering."}
+{"prompt":"What is incident response simulation?","completion":"Simulations test how well teams respond to realistic attack scenarios."}
+{"prompt":"How can I respond to malicious browser redirects?","completion":"Remove adware, reset browser settings, and scan for malware."}
+{"prompt":"What is incident response workflow?","completion":"A workflow defines the steps analysts follow during an incident."}
+{"prompt":"How can I respond to unauthorized certificate installations?","completion":"Remove untrusted certificates and audit certificate stores."}
+{"prompt":"What is incident response escalation?","completion":"Escalation involves involving higher-level teams when needed."}
+{"prompt":"How can I respond to unauthorized system changes?","completion":"Restore approved configurations and investigate the cause."}
+{"prompt":"What is incident response lifecycle?","completion":"It includes preparation, detection, containment, eradication, recovery, and review."}
+{"prompt":"How can I respond to malicious file downloads?","completion":"Delete the file, scan the system, and block the source."}
+{"prompt":"What is incident response readiness?","completion":"Readiness ensures tools, teams, and processes are prepared for incidents."}
+{"prompt":"How can I respond to unauthorized Bluetooth pairing?","completion":"Remove the pairing, update firmware, and disable Bluetooth when not needed."}
+{"prompt":"What is incident response coordination?","completion":"Coordination ensures teams work together efficiently during incidents."}
+{"prompt":"How can I respond to unauthorized network scanning?","completion":"Block the source IP and strengthen firewall rules."}
+{"prompt":"What is incident response improvement?","completion":"Improvement focuses on enhancing processes after reviewing incidents."}
+{"prompt":"How can I respond to unauthorized encryption tools?","completion":"Remove the tools, investigate usage, and enforce application controls."}
+{"prompt":"What is incident response compliance?","completion":"Compliance ensures incident handling meets legal and regulatory requirements."}
+{"prompt":"How can I respond to unauthorized admin actions?","completion":"Review logs, revoke access, and investigate misuse."}
+{"prompt":"What is incident response oversight?","completion":"Oversight ensures proper management and accountability during incidents."}
+{"prompt":"How can I respond to unauthorized cloud deployments?","completion":"Remove unauthorized resources and enforce deployment policies."}
+{"prompt":"What is incident response analysis?","completion":"Analysis identifies root causes and attack methods."}
+{"prompt":"How can I respond to unauthorized file deletions?","completion":"Restore files from backups and investigate the source."}
+{"prompt":"What is incident response containment?","completion":"Containment isolates affected systems to prevent further damage."}
+{"prompt":"How can I respond to unauthorized API tokens?","completion":"Revoke tokens, rotate keys, and audit access."}
+{"prompt":"What is incident response recovery?","completion":"Recovery restores systems to normal operation after threats are removed."}
+{"prompt":"How can I respond to unauthorized system reboots?","completion":"Review logs, check for malware, and secure access controls."}
+{"prompt":"What is incident response verification?","completion":"Verification ensures threats are fully removed before restoring operations."}
+{"prompt":"How can I respond to unauthorized VPN connections?","completion":"Terminate sessions, block IPs, and enforce MFA."}
+{"prompt":"What is incident response documentation standard?","completion":"It defines how incidents should be recorded for consistency and clarity."}
+{"prompt":"How can I respond to unauthorized cloud storage uploads?","completion":"Block uploads, review logs, and enforce DLP policies."}
+{"prompt":"What is incident response audit?","completion":"An audit reviews incident handling for accuracy and compliance."}
+{"prompt":"How can I respond to unauthorized remote desktop access?","completion":"Terminate sessions, reset credentials, and review logs."}
+{"prompt":"What is incident response governance model?","completion":"It defines roles, responsibilities, and policies for managing incidents."}
+{"prompt":"How can I respond to unauthorized firmware updates?","completion":"Reinstall trusted firmware and restrict update permissions."}
+{"prompt":"What is incident response escalation matrix?","completion":"A matrix defines when and how incidents should be escalated."}
+{"prompt":"How can I respond to unauthorized cloud key usage?","completion":"Rotate keys, revoke access, and audit logs."}
+{"prompt":"What is incident response communication plan?","completion":"It outlines how information is shared during an incident."}
+{"prompt":"How can I respond to unauthorized system modifications?","completion":"Restore approved settings and investigate the cause."}
+{"prompt":"What is incident response performance metric?","completion":"Metrics measure response speed, accuracy, and effectiveness."}
+{"prompt":"How can I respond to unauthorized network configuration changes?","completion":"Revert changes, secure access, and review logs."}
+{"prompt":"What is incident response playbook?","completion":"A playbook provides step-by-step guidance for handling specific incidents."}
+{"prompt":"How can I respond to unauthorized cloud role changes?","completion":"Revert roles, audit logs, and enforce least privilege."}
+{"prompt":"What is incident response maturity model?","completion":"It evaluates how advanced an organization’s incident response capabilities are."}
+{"prompt":"How can I respond to unauthorized database modifications?","completion":"Restore data, review logs, and secure access controls."}
+{"prompt":"What is incident response framework?","completion":"A framework provides structured guidelines for managing incidents."}
+{"prompt":"How can I respond to unauthorized system access attempts?","completion":"Block IPs, enforce MFA, and review logs."}
+{"prompt":"What is incident response checklist?","completion":"A checklist ensures all critical steps are followed during an incident."}
+{"prompt":"How can I respond to unauthorized cloud resource creation?","completion":"Delete resources, audit logs, and restrict permissions."}
+{"prompt":"What is incident response policy?","completion":"A policy defines rules and expectations for handling incidents."}
+{"prompt":"How can I respond to unauthorized file transfers?","completion":"Block transfers, investigate the source, and enforce DLP."}
+{"prompt":"What is incident response guideline?","completion":"Guidelines provide best practices for effective incident handling."}
+{"prompt":"How can I respond to unauthorized SSH tunneling?","completion":"Terminate sessions, block ports, and review logs."}
+{"prompt":"What is incident response standard?","completion":"A standard defines consistent procedures for responding to incidents."}
+{"prompt":"How can I respond to unauthorized cloud API keys?","completion":"Revoke keys, rotate credentials, and audit usage."}
+{"prompt":"What is incident response audit trail?","completion":"An audit trail records all actions taken during an incident."}
+{"prompt":"How can I respond to unauthorized system scripts?","completion":"Remove scripts, review logs, and enforce execution policies."}
+{"prompt":"What is incident response validation step?","completion":"Validation confirms threats are removed before restoring systems."}
+{"prompt":"How can I respond to unauthorized network access?","completion":"Block access, reset credentials, and investigate the source."}
+{"prompt":"What is incident response improvement cycle?","completion":"It focuses on enhancing processes after each incident review."}
+{"prompt":"How can I respond to unauthorized cloud permissions?","completion":"Revoke permissions, audit logs, and enforce least privilege."}
+{"prompt":"What is incident response readiness assessment?","completion":"It evaluates how prepared an organization is for cyber incidents."}
+{"prompt":"How can I respond to unauthorized system tasks?","completion":"Remove tasks, review logs, and secure access."}
+{"prompt":"What is incident response coordination plan?","completion":"It defines how teams collaborate during incidents."}
+{"prompt":"How can I respond to unauthorized data access?","completion":"Revoke access, review logs, and notify affected users."}
+{"prompt":"What is incident response communication channel?","completion":"A secure channel used to coordinate during incidents."}
+{"prompt":"How can I respond to unauthorized cloud deployments?","completion":"Remove deployments, audit logs, and restrict permissions."}
+{"prompt":"What is incident response escalation rule?","completion":"A rule defining when incidents must be escalated to higher teams."}
+{"prompt":"How can I respond to unauthorized system privileges?","completion":"Revoke privileges, review logs, and investigate misuse."}
+{"prompt":"What is incident response documentation process?","completion":"It ensures all actions and findings are recorded accurately."}
+{"prompt":"How can I respond to unauthorized network routing changes?","completion":"Revert changes, secure access, and review logs."}
+{"prompt":"What is incident response improvement plan?","completion":"A plan outlining enhancements to prevent future incidents."}
+{"prompt":"How can I respond to unauthorized cloud storage access?","completion":"Revoke access, audit logs, and investigate the unauthorized access."}
